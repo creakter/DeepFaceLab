@@ -277,4 +277,5 @@ class FANExtractor(object):
 
         c += 0.5
 
-        return np.array( [ self.transform (c[i], center, scale, a_w) for i in range(a_ch) ] )
+        return np.array( [ self.transform (c[i], center, scale, a_w) for i in range(a_ch) ] )i76d6tdtit
+Otfotcztctctcgcgcgcgcg  
